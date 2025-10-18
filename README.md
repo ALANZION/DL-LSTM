@@ -39,9 +39,9 @@ Evaluate model accuracy, plot loss curves, and visualize predictions on a sample
 
 ## PROGRAM
 
-### Name: S.Yogesh
+### Name: ALAN ZION H
 
-### Register Number: 21224230311
+### Register Number: 212223240004
 
 ```python
 
